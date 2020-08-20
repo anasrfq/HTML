@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Image</title>
+</head>
+<body>
+
+<a href="http://google.co.id">
+	<img src="Logo IPM.png">
+</a>
+
+</body>
+</html>
